@@ -1,3 +1,4 @@
 *.csv
 *.parquet
 *.zip # Also ignoring zip files based on your earlier message
+archive.zip
