@@ -1,0 +1,5 @@
+/Users/yixizhao/Documents/GitHub/SmallPond_trail_project/output/SqlEngineTask.000003-32dac53f-39a5-44c0-8d8c-82257d43fad2.000009.0.0-0.0.0.parquet
+/Users/yixizhao/Documents/GitHub/SmallPond_trail_project/output/SqlEngineTask.000003-32dac53f-39a5-44c0-8d8c-82257d43fad2.000010.0.0-0.0.0.parquet
+/Users/yixizhao/Documents/GitHub/SmallPond_trail_project/output/SqlEngineTask.000003-32dac53f-39a5-44c0-8d8c-82257d43fad2.000011.0.0-0.0.0.parquet
+/Users/yixizhao/Documents/GitHub/SmallPond_trail_project/output/SqlEngineTask.000003-32dac53f-39a5-44c0-8d8c-82257d43fad2.000012.0.0-0.0.0.parquet
+/Users/yixizhao/Documents/GitHub/SmallPond_trail_project/output/SqlEngineTask.000003-32dac53f-39a5-44c0-8d8c-82257d43fad2.000013.0.0-0.0.0.parquet
